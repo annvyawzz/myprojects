@@ -1,0 +1,17 @@
+debug/main.o
+debug/figure.o
+debug/paint.o
+debug/paintarea.o
+debug/paintscene.o
+debug/romb.o
+debug/simplemenu.o
+debug/square.o
+debug/triangle.o
+debug/moc_paint.o
+debug/moc_figure.o
+debug/moc_paintarea.o
+debug/moc_paintscene.o
+debug/moc_romb.o
+debug/moc_simplemenu.o
+debug/moc_square.o
+debug/moc_triangle.o
